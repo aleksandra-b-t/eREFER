@@ -23,7 +23,7 @@ function Home() {
                 </form>
             </div>
             <div className='main-item'>
-                <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.nationalcapitalmission.org%2Fnew-page-1&psig=AOvVaw3P5rppNjrhLL0ezRQXHjL6&ust=1608065471363000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi54--szu0CFQAAAAAdAAAAABAD" alt="network"/>
+                <img src="/network.png"/>
             </div>
           </div>
        </div>
