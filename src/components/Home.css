@@ -1,0 +1,23 @@
+.main-page {
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  height: 100%;
+  width: auto;
+}
+.main-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: baseline;
+  height: auto;
+  justify-content: space-evenly;
+}
+.main-item {
+  display: flexbox;
+  flex-grow: 1;
+}
