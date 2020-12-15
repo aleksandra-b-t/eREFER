@@ -23,7 +23,7 @@ function Home() {
                     <button className='b2' type="forgotPassword" value="Forgot Password"> Forgot Password </button>
                 </form>
             </div>
-            <img className='main-item' src=" /network.png"/>
+            <img className='main-item' src=" /network.png"/> 
           </div>
        </div>
        </>
