@@ -8,8 +8,8 @@ function Home() {
        <div className='main-page'> 
           <div className='main-container'>
             <div className='main-item'>
-                <a className='logo'>Logo</a>
-                <p className='under-logo'>Write perscriptions, ref patiens, and more!</p>
+                <h1 className='logo'>eREFER</h1>
+                <h2 className='under-logo'>Write perscriptions, ref patiens, and more!</h2>
                 <form>
                     <label>
                     Email address :
@@ -19,12 +19,11 @@ function Home() {
                     Password :
                         <input type="password" name="password" />
                     </label>
-                    <input type="submit" value="Submit" />
+                    <button className='b1' type="submit" value="Submit"> Sign In </button>
+                    <button className='b2' type="forgotPassword" value="Forgot Password"> Forgot Password </button>
                 </form>
             </div>
-            <div className='main-item'>
-                <img src="/network.png"/>
-            </div>
+            <img className='main-item' src=" /network.png"/>
           </div>
        </div>
        </>
