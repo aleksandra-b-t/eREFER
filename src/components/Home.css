@@ -1,6 +1,5 @@
 .main-page {
   background: transparent;
-  /* display: flex; */
   justify-content: space-evenly;
   font-weight: bold;
   margin-top: 13%;
@@ -22,7 +21,6 @@
 .main-item {
   display: flex;
   flex-direction: column;
-  /* flex: 1 120px; */
   align-items: center;
   height: 350px;
   align-self: center;
